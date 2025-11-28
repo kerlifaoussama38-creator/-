@@ -1,55 +1,26 @@
 {
-  "name": "إدارة المهام",
+  "name": "ادارة المهام",
   "short_name": "المهام",
-  "start_url": "https://builder.blackbox.ai/app/hFVEbHkWIuw",
+  "start_url": "/",
   "display": "standalone",
-  "id": "taskmanager.app",
-  "description": "تطبيق فعال لإدارة المهام يساعد المستخدمين على إنشاء وتنظيم وتتبع المهام اليومية بسهولة.",
-  "dir": "rtl",
+  "id": "/",
+  "description": "تطبيق لإدارة وتنظيم وتتبع المهام اليومية بسهولة مع واجهة نظيفة وبسيطة لتحسين الإنتاجية وتسهيل سير العمل.",
   "lang": "ar",
-  "scope": "https://builder.blackbox.ai/app/hFVEbHkWIuw/",
-  "orientation": "natural",
+  "dir": "rtl",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "categories": [
-    "business",
-    "productivity"
-  ],
+  "scope": "/",
   "icons": [
     {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-128.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-152.png",
-      "sizes": "152x152",
-      "type": "image/png"
-    },
-    {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-192.png",
+      "src": "/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://builder.blackbox.ai/app/hFVEbHkWIuw/icon-512.png",
+      "src": "/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "categories": ["business", "productivity"]
 }
