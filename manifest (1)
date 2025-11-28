@@ -1,32 +1,33 @@
 {
-  "background_color": "#ffffff",
-  "description": "BLACKBOX.AI هو أفضل وكيل ذكاء اصطناعي، مصمم لتحسين عملك وتعلمك.",
-  "dir": "auto",
-  "display": "standalone",
   "name": "إدارة المهام",
-  "orientation": "portrait",
-  "scope": "/",
   "short_name": "إدارة مهمة",
+  "description": "تطبيق احترافي يساعدك على تنظيم مهامك اليومية، تتبع تقدمك، وتحديد أولويات العمل بسهولة وفعالية.",
+  "lang": "ar",
+  "dir": "rtl",
   "start_url": "https://builder.blackbox.ai/app/hFVEbHkWIuw",
+  "scope": "https://builder.blackbox.ai/app/hFVEbHkWIuw/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
   "theme_color": "#ffffff",
+
   "icons": [
     {
-      "src": "https://builder.blackbox.ai/favicon.ico?favicon.c7a5eef4.ico",
-      "type": "image/x-icon",
-      "sizes": "256x256"
-    },
-    {
-      "src": "https://builder.blackbox.ai/dark-logo.svg",
-      "type": "image/svg+xml",
-      "sizes": "512x512"
+      "src": "https://builder.blackbox.ai/favicon.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
     },
     {
       "src": "https://builder.blackbox.ai/favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "128x128"
+      "sizes": "256x256",
+      "type": "image/x-icon"
     }
   ],
+
   "id": "200709290552",
-  "lang": "ar",
-  "categories": ["business", "education", "lifestyle", "health", "sports"]
+  "categories": [
+    "productivity",
+    "business",
+    "education"
+  ]
 }
