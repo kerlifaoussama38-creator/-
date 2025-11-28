@@ -1,0 +1,60 @@
+{
+  "background_color": "#ffffff",
+  "description": "BLACKBOX.AI is the best ai agent, built to transform the way you work and learn and trusted by +10 M users and Fortune 500 companies.",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "ادارة المهام",
+  "orientation": "natural",
+  "scope": "/https://builder.blackbox.ai/app/hFVEbHkWIuw",
+  "short_name": "ادارة المهام",
+  "start_url": "/https://builder.blackbox.ai/app/hFVEbHkWIuw",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://builder.blackbox.ai/favicon.ico?favicon.c7a5eef4.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 256,
+      "is512x512": false,
+      "is256x256": true,
+      "is192x192": false
+    },
+    {
+      "src": "https://builder.blackbox.ai/dark-logo.svg",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://builder.blackbox.ai/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "200709290552",
+  "lang": "ar",
+  "categories": [
+    "business",
+    "education",
+    "fitness",
+    "health",
+    "lifestyle",
+    "sports"
+  ]
+}
